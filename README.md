@@ -1,1 +1,2 @@
-
+This project is a real-time sentiment analysis app powered by Facebook’s BART-Large-MNLI model. It classifies text as positive or negative and provides a confidence score built with Gradio, this app provides a simple web-based UI for user interaction. It can be run locally or deployed on Hugging Face Spaces effortlessly.
+title: Sentiment Analysis emoji: 🏢 colorFrom: red colorTo: indigo sdk: gradio sdk_version: 5.20.0 app_file: app.py pinned: false license: mit
